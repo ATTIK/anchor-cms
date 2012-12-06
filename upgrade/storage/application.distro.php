@@ -8,13 +8,13 @@ return array(
 	'index' => 'index.php',
 
 	// Application Timezone
-	'timezone' => 'Europe/London',
+	'timezone' => 'America/Los_Angeles',
 
 	// Application Key
 	'key' => 'YourSecretKeyGoesHere',
 
 	// Default Application Language
-	'language' => 'en_GB',
+	'language' => 'en_US',
 
 	// Application Character Encoding
 	'encoding' => 'UTF-8'
